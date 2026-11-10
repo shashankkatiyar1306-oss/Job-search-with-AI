@@ -1,0 +1,64 @@
+{
+  "name": "AARAV MEHTA",
+  "headline": "Senior Instructional Designer",
+  "tagline": "9+ years in corporate eLearning | Storyline 360 & Rise 360 | SCORM & LMS | WCAG 2.1",
+  "contact": "Pune, Maharashtra, India | +91 90000 00000 | aarav.mehta@example.com | linkedin.com/in/aarav-mehta-example",
+  "summary": [
+    "Instructional designer with 9+ years building corporate eLearning from needs analysis to LMS launch, using ADDIE and SAM and building in Articulate Storyline 360 and Rise 360.",
+    "Led a team of 6 designers on compliance and product-training programmes, owning storyboard reviews, QC and the team's templates.",
+    "Works closely with SMEs and stakeholders, and uses generative AI for script drafts, storyboards and course visuals."
+  ],
+  "ai_section_title": "HIGHLIGHTS",
+  "ai_bullets": [
+    "Rebuilt a 40-module compliance curriculum in Rise 360 for mobile learners.",
+    "Introduced an AI-assisted storyboard workflow that the whole team adopted."
+  ],
+  "competencies": [
+    "ADDIE | SAM | Bloom's Taxonomy",
+    "Storyline 360 | Rise 360 | Captivate",
+    "SCORM packaging & LMS setup",
+    "WCAG 2.1 accessibility",
+    "Storyboards, scripts & assessments",
+    "SME workshops & stakeholder management",
+    "QC & peer review processes",
+    "Team leadership"
+  ],
+  "experience": [
+    {
+      "title": "Senior Instructional Designer",
+      "company": "Example Learning Pvt. Ltd. | Pune",
+      "dates": "Apr 2021 – Present",
+      "groups": [
+        {"heading": "", "bullets": [
+          "Lead a team of 6 instructional designers on compliance and product-training programmes for enterprise clients.",
+          "Design course architecture, objectives and assessments mapped to Bloom's Taxonomy.",
+          "Build interactive courses and simulations in Storyline 360 and Rise 360 to WCAG 2.1 guidelines.",
+          "Package courses as SCORM and work with client LMS admins on setup and completion tracking."
+        ]}
+      ]
+    },
+    {
+      "title": "Instructional Designer",
+      "company": "Sample Services Ltd. | Mumbai",
+      "dates": "Jun 2016 – Mar 2021",
+      "groups": [
+        {"heading": "", "bullets": [
+          "Converted operations procedures into role-based eLearning and job aids.",
+          "Wrote video scripts and produced screen-capture tutorials in Camtasia.",
+          "Ran SME interviews and review rounds to validate accuracy."
+        ]}
+      ]
+    }
+  ],
+  "tools": [
+    {"label": "Authoring", "text": "Articulate Storyline 360, Rise 360, Adobe Captivate"},
+    {"label": "Video", "text": "Camtasia, Vyond"},
+    {"label": "LMS and standards", "text": "SCORM, LMS setup and reporting, WCAG 2.1"},
+    {"label": "AI tools", "text": "Claude, Google Gemini"}
+  ],
+  "education": {
+    "degree": "Bachelor of Arts, English",
+    "dates": "2012 – 2015",
+    "school": "Example University, Pune"
+  }
+}

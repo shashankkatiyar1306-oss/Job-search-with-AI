@@ -1,0 +1,12 @@
+# personal files: these live in your Google Drive, never in the repo
+telegram.txt
+telegram_chat.txt
+cv_master.json
+config.md
+answers.md
+answers_added_*.md
+log_*.md
+*.pdf
+*.docx
+scripts/fonts/
+__pycache__/
